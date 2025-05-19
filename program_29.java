@@ -22,7 +22,7 @@ class Display
         return iSum;
     }
 }
-class program29
+class program_29
 {
     public static void main(String A[])
     {
