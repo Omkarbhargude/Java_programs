@@ -22,7 +22,7 @@ class Display
         return bResult;
     }
 }
-class program12
+class program_12
 {
     public static void main(String A[])
     {
