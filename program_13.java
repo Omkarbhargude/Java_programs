@@ -7,7 +7,7 @@ class Display
         return((iNo % 2) == 0);
     }
 }
-class program13
+class program_13
 {
     public static void main(String A[])
     {
