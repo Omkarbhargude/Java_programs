@@ -18,7 +18,7 @@ class Display
         return iFact;
     }
 }
-class program23
+class program_23
 {
     public static void main(String A[])
     {
