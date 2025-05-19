@@ -14,7 +14,7 @@ class Display
         return iSum;
     }
 }
-class program17
+class program_17
 {
     public static void main(String A[])
     {
