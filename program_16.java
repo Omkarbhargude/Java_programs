@@ -13,7 +13,7 @@ class Display
         }
     }
 }
-class program16
+class program_16
 {
     public static void main(String A[])
     {
