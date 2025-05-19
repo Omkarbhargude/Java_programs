@@ -20,7 +20,7 @@ class Display
         }
     }
 }
-class program25
+class program_25
 {
     public static void main(String A[])
     {
