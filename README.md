@@ -10,4 +10,4 @@ A collection of Java programs organized by topic to help you learn and practice 
 - **pattern/** — Programs to print various star, number, and character patterns using nested loops  
 - **string/** — String handling programs including manipulation, searching, and basic custom string functions  
 
-
+Each folder includes its own README with file descriptions and usage
