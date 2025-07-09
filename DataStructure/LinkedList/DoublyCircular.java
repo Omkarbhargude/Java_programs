@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-// Name : Doubly Linear Linkedlist
-// Description : Implementing Doubly Linear linkedlist in Java with function like insertion, deletion and traversal.
+// Name : Doubly Circular Linkedlist
+// Description : Implementing Doubly Circular linkedlist in Java with function like insertion, deletion and traversal.
 // Input : Integer
 // Output : Integer
 // Author : Omkar Mahadev Bhargude
