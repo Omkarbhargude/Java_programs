@@ -66,11 +66,15 @@ The code is written in a **simple, readable, and beginner-friendly manner**, wit
 1. Clone the repository  
    ```bash
    git clone <repo-url>
-2. Compile the program : javac FileName.java
-3. Run the program : java FileName
+2. Compile the program
+   ```bash
+    javac FileName.java
+4. Run the program 
+   ```bash
+   java FileName
 
 ---
 
 ## Author
 **Omkar Bhargude**
-  -Passionate about programming, problem-solving, and teaching.
+-Passionate about programming, problem-solving, and teaching.
