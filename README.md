@@ -78,4 +78,4 @@ The code is written in a **simple, readable, and beginner-friendly manner**, wit
 ## Author
 
 **Omkar Mahadev Bhargude**
--Passionate about programming, problem-solving, and teaching.
+- Passionate about programming, problem-solving, and teaching.
